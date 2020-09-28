@@ -1,3 +1,6 @@
+## nmokgele@gmail.com
+## Nkululeko Mokgele
+
 <p align="center">
   <a href="https://github.com/cybersec-clinique/internship">
     <img src="img/logo-black.png" alt="Logo" height="80">
